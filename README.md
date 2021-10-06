@@ -1,2 +1,2 @@
 # Aulas-alura
-desafios proposto durante as aulas
+desafios propostos durante as aulas
