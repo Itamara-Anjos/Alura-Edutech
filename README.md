@@ -1,2 +1,2 @@
-# Aulas-alura
-desafios propostos durante as aulas
+# Aulas-alura-Python
+Java script 
