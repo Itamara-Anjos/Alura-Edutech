@@ -1,1 +1,1 @@
-#  Exemplos primeiro modulo
+#  Exercicios proposto no primeiro modulo.
